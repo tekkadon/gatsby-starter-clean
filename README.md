@@ -1,8 +1,8 @@
-# Clean Start
+# Clean Start End
 ---
 #### The plain and simple starter.
 
-# Installation
+# Installation and publish
 ---
 Install this starter (assuming Gatsby is installed) by running from your CLI: 
 ```
